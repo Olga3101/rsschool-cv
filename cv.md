@@ -1,6 +1,6 @@
 # CURRICULUM VITAE
 ## Information
-* **Name:** Olga A. Inozemtseva (Иноземцева Ольга Александровна)
+* **Name:** Olga A. Inozemtseva
 * **Phone number:** +79873171847
 * **E-mail:** inozemtsevaoa@mail.ru
 * **Github:** olga3101
