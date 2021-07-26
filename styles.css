@@ -1,16 +1,23 @@
 body {
-  background: #f06d06;
-}
-
-main {
-  background: white;
-  margin: 20px 0;
-  padding: 10px;
-}
-
-.center {
-  margin: 0 auto;
-  width: 600px;
-  background: #f06d06;
-  	padding: 10px;
-}
+    background: #D0DAEE;
+  }
+  
+  main {
+    background: white;
+    margin: 20px 0;
+    padding: 10px;
+  }
+  
+  .center {
+    margin: 0 auto;
+    width: 600px;
+    background: #D0DAEE;
+    padding: 10px;
+  }
+  .footer {
+    margin: 0 auto;
+    position:fixed;
+    text-align: center;
+    background: #D0DAEE;
+  }
+  
